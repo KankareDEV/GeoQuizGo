@@ -31,7 +31,7 @@
 - [Jetpack Compose](https://developer.android.com/jetpack/compose)
 - [Lottie for Android](https://airbnb.io/lottie/#/android)
 - [MediaPlayer API](https://developer.android.com/media/platform/mediaplayer/basics)
-- [Firebase Realtime Database](https://firebase.google.com/docs/database) *(planned for dynamic question loading)*
+- [Firebase Realtime Database](https://firebase.google.com/docs/database)
 
 ---
 
