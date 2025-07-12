@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">GeoQuizGo</string>
+    <string name="choose_category">Scegli una categoria</string>
+    <string name="europe">Europa</string>
+    <string name="usa">Stati Uniti</string>
+    <string name="south_america">Sud America</string>
+    <string name="asia">Asia</string>
+    <string name="quiz_finished">Quiz completato!</string>
+    <string name="your_score">Il tuo punteggio: %1$d / %2$d</string>
+    <string name="restart_quiz">Ricomincia</string>
+    <string name="back_to_menu">Torna al menu</string>
+    <string name="next">Avanti</string>
+    <string name="finish">Fine</string>
+</resources>
+
+
+
