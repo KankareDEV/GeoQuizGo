@@ -9,9 +9,8 @@
 - 📱 Modern Android app using **Jetpack Compose**
 - 🧠 Four quiz categories: Europe, USA, Asia, South America
 - 🌐 Multi-language support: English & Italian
-- 🔊 Sound effects on actions (e.g., language switch, correct answer)
+- 🔊 Sound effects
 - 🏁 Final score screen with Lottie animation
-- 🖼️ Visual image-based questions (e.g., "Which country is highlighted?")
 - 💾 Localized string resources
 - 🎯 Clean architecture with reusable components
 
